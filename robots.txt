@@ -1,6 +1,3 @@
 User-agent: *
 Allow: /
-
-
 Sitemap: https://rk4n.github.io/sitemap.xml
-
